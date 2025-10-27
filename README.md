@@ -29,22 +29,22 @@ Content goes here...
 ## Generative AI Core Concepts
 Content goes here...
 
-## LLM-Modelling-Steps
+## LLM Modelling Steps
 Content goes here...
 
-## Transformer-Models-BERT-GPT-t5
+## Transformer Models BERT GPT t5
 Content goes here...
 
-## Training-process-of-an-LLM-Model-like-chatgpt
+## Training Process of an LLM Model like chatgpt
 Content goes here...
 
-## the-generative-ai-development-lifecycle
+## The Generative AI Development Lifecycle
 Content goes here...
 
-## overview-of-proprietary-and-open-source-llms
+## Overview of Proprietary and Open Source LLMs
 Content goes here...
 
-## overview-of-popular-generative-ai-tools-and-platforms
+## Overview of Popular Generative AI Tools and Platforms
 Content goes here...
 
 ## Ethical Considerations in Generative AI
