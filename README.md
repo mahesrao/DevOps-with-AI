@@ -23,19 +23,19 @@ Content goes here...
 ## Differentiating Generative AI from Discriminative AI
 Content goes here...
 
-## types-of-generative-ai
+## Types of Generative AI
 Content goes here...
 
-## generative-ai-core-concepts
+## Generative AI Core Concepts
 Content goes here...
 
-## llm-modelling-steps
+## LLM-Modelling-Steps
 Content goes here...
 
-## transformer-models-bert-gpt-t5
+## Transformer-Models-BERT-GPT-t5
 Content goes here...
 
-## training-process-of-an-llm-model-like-chatgpt
+## Training-process-of-an-LLM-Model-like-chatgpt
 Content goes here...
 
 ## the-generative-ai-development-lifecycle
@@ -47,13 +47,13 @@ Content goes here...
 ## overview-of-popular-generative-ai-tools-and-platforms
 Content goes here...
 
-## ethical-considerations-in-generative-ai
+## Ethical Considerations in Generative AI
 Content goes here...
 
-## bias-in-generative-ai-outputs
+## Bias in Generative AI Outputs
 Content goes here...
 
-## safety-and-responsible-ai-practices
+## Safety and Responsible AI Practices
 Content goes here...
 
 
